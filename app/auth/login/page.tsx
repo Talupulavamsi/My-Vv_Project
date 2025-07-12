@@ -9,7 +9,7 @@ import { Eye, EyeOff, Mail, Lock, Sparkles } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
-import { useFirebase } from "@/contexts/FirebaseContext"
+//import { useFirebase } from "@/contexts/FirebaseContext"
 import { useToast } from "@/hooks/use-toast"
 import Link from "next/link"
 
